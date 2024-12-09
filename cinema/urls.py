@@ -1,5 +1,4 @@
 from django.urls import path
-from rest_framework.urls import app_name
 
 from cinema.views import movies_list, movie_detail
 
